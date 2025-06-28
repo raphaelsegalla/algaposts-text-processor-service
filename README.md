@@ -1,0 +1,1 @@
+# algaposts-text-processor-service
